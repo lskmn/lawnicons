@@ -1644,7 +1644,6 @@
   <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly" name="Feedly" />
   <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.MainActivity}" drawable="feedly" name="Feedly" />
   <item component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.view.activity.ListActivity}" drawable="feedme" name="FeedMe" />
-  <item component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.ui.MainActivity}" drawable="feedme" name="FeedMe"/>
   <item component="ComponentInfo{com.enjoyingfoss.feeel/com.enjoyingfoss.feeel.view.CoverActivity}" drawable="feeel" name="Feeel" />
   <item component="ComponentInfo{com.enjoyingfoss.feeel/com.enjoyingfoss.feeel.view.OverviewActivity}" drawable="feeel" name="Feeel" />
   <item component="ComponentInfo{com.enjoyingfoss.feeel/io.flutter.embedding.android.FlutterActivity}" drawable="feeel" name="Feeel" />
